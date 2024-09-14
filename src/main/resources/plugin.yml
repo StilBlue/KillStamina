@@ -1,0 +1,13 @@
+name: KillStamina
+version: '1.0-SNAPSHOT'
+main: me.stilblue.killStamina.KillStamina
+api-version: '1.18'
+depend:
+  - MythicMobs
+  - PlaceholderAPI
+commands:
+  killstamina:
+    description: base command
+    usage: /<command>
+    aliases: [ks]
+    permission: killstamina.admin

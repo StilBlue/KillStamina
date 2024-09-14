@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KillStamina">
+    <output-path>$PROJECT_DIR$/../../Minecraft Server/Test/plugins</output-path>
+    <root id="archive" name="KillStamina.jar">
+      <element id="module-output" name="killstamina" />
+    </root>
+  </artifact>
+</component>
